@@ -1,0 +1,50 @@
+.entrance{
+    background: black;
+  background-image: url(photo/1.jpg.jpg);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 640px auto;
+  background-position: 70% 48%;
+  height: 100%;
+}
+.nav-item{
+    color: white;
+    font-family: "AvantGarde Bold", Sans-serif;
+    font-size: 16px;
+    position: relative;
+    margin-right: 30px;
+  margin-top: 30px;
+  margin-right: 15px;
+
+}
+.container1{
+  margin-top: 170px;
+    margin-bottom: 0;
+    padding: 70px 30px 70px 30px;
+}
+h2{
+    font-family: "AvantGarde Bold", Sans-serif;
+    color: white;
+    font-size: 78px;
+    font-weight: 800px;
+}
+.container2{
+    padding: 70px 15px 0px 15px;
+    color: white;
+}
+.row{
+    padding: 60px 40px 60px 40px;
+    background-color: #e9204f;
+}
+.container3 h2{
+    font-size: 48px;
+    color: black;
+}
+.container3{
+    padding: 150px 0px 0px 0px; 
+    margin-left:50px;
+}
+.container4{
+    padding: 40px 30px 40px 30px;
+    display: flex;
+}
